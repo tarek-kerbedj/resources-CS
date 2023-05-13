@@ -21,17 +21,14 @@ this repo contains a plathora of resources to , variying accross all different f
 - [Kikodo - Learn](https://www.kikodo.io/dashboard/)
 ##  AI/ML/DL/DS
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
-- [Chapter 1: Introduction to Machine Learning and Deep Learning]
 - [All Free Courses](https://courses.analyticsvidhya.com/pages/all-free-courses)
 - [Data Puzzles: Sharpen your Data Science skills](https://data-puzzles.com/)
 - [SE-ML](https://se-ml.github.io/practices/)
 - [Data Analysis with Python: Zero to Pandas | Jovian.ml](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas)
 - [Welcome | R for Data Science](https://r4ds.had.co.nz/)
-- [Deep Learning]
-- [Learn Python For Data Science (Course I) - The Click Reader]
 - [Learn | Free Courses in Data Science, AI, Cloud Computing, Containers, Kubernetes,](https://cognitiveclass.ai/learn)
 - [Kaggle Solutions](https://farid.one/kaggle-solutions/)
 - [GitHub - AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2020]
 - [The Ancient Secrets of Computer Vision - An Introduction to Computer Vision](https://pjreddie.com/courses/computer-vision/)
-- [Airtable - Not a Real Degree: Data Science]
+- [Airtable - Not a Real Degree: Data Science](https://airtable.com/shr1SBhA2xfjyFDkJ/tblgsNSRodvtsEMMV/viwANY9AkzRO1Zt31)
 
