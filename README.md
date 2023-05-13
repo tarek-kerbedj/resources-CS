@@ -28,7 +28,6 @@ this repo contains a plathora of resources to , variying accross all different f
 - [Welcome | R for Data Science](https://r4ds.had.co.nz/)
 - [Learn | Free Courses in Data Science, AI, Cloud Computing, Containers, Kubernetes,](https://cognitiveclass.ai/learn)
 - [Kaggle Solutions](https://farid.one/kaggle-solutions/)
-- [GitHub - AMAI-GmbH/AI-Expert-Roadmap: Roadmap to becoming an Artificial Intelligence Expert in 2020]
 - [The Ancient Secrets of Computer Vision - An Introduction to Computer Vision](https://pjreddie.com/courses/computer-vision/)
 - [Airtable - Not a Real Degree: Data Science](https://airtable.com/shr1SBhA2xfjyFDkJ/tblgsNSRodvtsEMMV/viwANY9AkzRO1Zt31)
 
